@@ -10,7 +10,6 @@ A MAXScript tool for adjusting color brightness in Corona Physical Materials and
 
 - **Always save your file before running this script**
 - Test on a backup copy first
-- Keep Ctrl+Z ready to undo changes if needed
 - Report any bugs or unexpected behavior
 
 ## Overview
@@ -71,9 +70,6 @@ For more information and support, visit: https://www.patreon.com/RenderRam
 
 This tool is in active development. Bug reports and suggestions welcome.
 
-## License
-
-MIT License
 
 ---
 
